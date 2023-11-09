@@ -12,7 +12,7 @@
 
 **Telegram:** @SiarheiKarobka<br>
 
-[LinkedIn](https://www.linkedin.com/in/sergey-korobko/)<br>
+**LinkedIn:** [Siarhei-Karobka](https://www.linkedin.com/in/sergey-korobko/)<br>
 
 ---
 
@@ -66,7 +66,15 @@ console.log(newProduct);
 
 ### Work Experience:
 
-- Salesforce developer JET BI (jan 2020)
+- Data Integration/Migration processes :
+  - Jitterbit experience. Configured SAP and Salesforce two way communication. Prepared scheduled integration processes.
+  - Configured and maintained integrations with Pentaho scripts running on remote desktop.
+  - Prepared scripts for validation and migration data from csv to Salesforce data model
+- Configured declarative Salesforce automation process such as Workflows, Process Builders, Flows
+- Developed custom reusable Lightning Web Components for displaying list of records similar as in the standard related lists using custom Data table configurations.
+- Developed Salesforce asynchronous Scheduled and Batch jobs.
+- Refactored apex trigger code, resolved SOQL limits issues.
+- Created Salesforce test data factory and refactored existing test classes using best practices.
 
 ---
 
