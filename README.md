@@ -1,1 +1,1 @@
-# https://github.com/Siarhei-Karobka/rsschool-cv
+https://Siarhei-Karobka.github.io/rsschool-cv/
